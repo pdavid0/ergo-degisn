@@ -6,8 +6,9 @@ Site web
 
 CC Philippe David
 
-* Heroku
+* Heroku (Test env)
 * NodeJS
 * Yeoman
 * Express
-* Twitter Bootstrap
+* Theme forest Template
+* Hosting AWS S3 with route 53
